@@ -25,13 +25,9 @@ int main()
 		for (int i = 0; i < N; i++){
 			if (i == 0)
 				for (int j = 0; j < 2; j++) memo[j][i] = v[j][i];
-			else if (i == 1)
-				for (int j = 0; j < 2; j++) memo[j][i] = v[j][i] + memo[j ^ 1][i - 1];
 			else
-			{
 				for (int j = 0; j < 2; j++)
-					memo[j][i] = max(v[j][i] + memo[j ^ 1][i - 1], v[j][i] + memo[j ^ 1][i - 2]);
-			}
+					memo[j][i] = v[j][i]+ max(memo[j ^ 1][i - 1], memo[j ^ 1][i - 2]);
 		}
 		cout << max(memo[0][N - 1], memo[1][N - 1]) << endl;
 	}
