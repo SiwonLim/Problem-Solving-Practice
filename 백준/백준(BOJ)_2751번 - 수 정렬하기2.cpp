@@ -36,6 +36,6 @@ int main() {
 		d.push_back(t);
 	}
 	mergeSort(d, 0, n-1);
-	for (int i = 0; i < n; i++) printf("%d\n", d[i]);
+	for (int i = 0; i < n; i++) cout << d[i] << '\n';
 	return 0;
 }
