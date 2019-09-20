@@ -1,7 +1,8 @@
 # Problem-Solving-Practice
 PS 연습을 위해 만든 공간입니다 :)|
 1일 1업데이트가 목표입니다.|
-**수정중!!**
+(README 수정중 입니다.)<br><br>
+
 |날짜|문제|링크
 |---|------|---|
 |20190920|백준(BOJ) - 자두나무|<a href="http://bitly.kr/R9hUoT6" target="_blank">2240번</a>|
