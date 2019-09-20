@@ -3,7 +3,7 @@ PS 연습을 위해 만든 공간입니다 :)|
 1일 1업데이트가 목표입니다.|
 
 |날짜|문제|링크
-|---|------|---|
+|--|------|--|
 |20190920|백준(BOJ) - 자두나무|<a href="http://bitly.kr/R9hUoT6" target="_blank">2240번</a>|
 |20190826|백준(BOJ) - 네 수|<a href="http://bitly.kr/luhdVgF" target="_blank">10824번</a>|
 |20190815|백준(BOJ) - 행렬 곱셈 순서|<a href="http://bitly.kr/y1SFHsn">11049번</a>|
@@ -37,7 +37,7 @@ PS 연습을 위해 만든 공간입니다 :)|
 |20190718|2018카카오공채 6번|<a href="http://bitly.kr/2xe28f7">매칭 점수</a>|
 |20190718|2018카카오공채 7번|<a href="http://bitly.kr/p5wyqoE">블록 게임</a>|
 |20190717|백준(BOJ) - 연속합|<a href="http://bitly.kr/5nnjC0p">1912번</a>|
-|20190712~20190716 휴식기간|
+|20190712~16 휴식|
 |20190711|백준(BOJ) - 가장 긴 바이토닉 부분 수열|<a href="http://bitly.kr/i5QKJkA">11054번</a>|
 |20190711|백준(BOJ) - 가장 긴 감소하는 부분 수열|<a href="http://bitly.kr/n6ZRob">11722번</a>|
 |20190711|백준(BOJ) - 가장 큰 증가 부분 수열|<a href="http://bitly.kr/ByqdYrE">11055번</a>|
