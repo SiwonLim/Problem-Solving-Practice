@@ -1,10 +1,9 @@
 # Problem-Solving-Practice
 PS 연습을 위해 만든 공간입니다 :)<br>
-1일 1업데이트가 목표입니다.<br>
 
 |날짜|문제|링크
 |--|------|--|
-|20190927|프로그래머스(Level2)|<a href="http://bitly.kr/e37aujn">탑</a>|
+|20190927|프로그래머스(Level2)|<a href="http://bitly.kr/i9vXOIe">탑</a>|
 |20190920|백준 - 자두나무|<a href="http://bitly.kr/R9hUoT6" target="_blank">2240번</a>|
 |20190826|백준 - 네 수|<a href="http://bitly.kr/luhdVgF" target="_blank">10824번</a>|
 |20190815|백준 - 행렬 곱셈 순서|<a href="http://bitly.kr/y1SFHsn">11049번</a>|
@@ -55,5 +54,5 @@ PS 연습을 위해 만든 공간입니다 :)<br>
 |20190701|2018카카오공채 2번|<a href="http://bitly.kr/e8P9J50">실패율|
 |20190701|2018카카오공채 3번|<a href="http://bitly.kr/5P5TKEE">후보키|
 |20190630|백준 - 1로 만들기|<a href="http://bitly.kr/OQTNfpJ">1463번</a>|
-|20190629|2018카카오공채 1번|오픈채팅방(<a href="http://bitly.kr/LFsHe5O">c++</a>/<a href="http://bitly.kr/2aIR9Qu">python)</a>|
+|20190629|2018카카오공채 1번|오픈채팅방(<a href="http://bitly.kr/LFsHe5O">c++</a>/<a href="http://bitly.kr/2aIR9Qu">python</a>)|
 |20190628|백준 - 친구|<a href="http://bitly.kr/e37aujn">1058번</a>|
