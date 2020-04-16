@@ -33,8 +33,3 @@ int solution(string skill, vector<string> skill_trees) {
 	}
 	return answer;
 }
-int main() {
-	vector<string> test({"BACDE", "CBADF", "AECB", "BDA"});
-	cout << solution("CBD", test) << endl;
-	return 0;
-}
