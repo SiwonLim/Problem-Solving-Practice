@@ -2,7 +2,7 @@
 https://leetcode.com/problems/two-sum/solutions/3619262/3-method-s-c-java-python-beginner-friendly/
 
 
-[Answer1] : Brute Force
+[Answer 1] : Brute Force
 ```java
 package Java;
 public class prac_20230826 {
@@ -29,7 +29,7 @@ public class prac_20230826 {
 
 ```
 
-[Answer2] : One pass hash table
+[Answer 2] : One pass hash table
 ```java
 public int[] twoSum(int[] nums, int target) {
         Map<Integer,Integer> numMap = new HashMap<>();
