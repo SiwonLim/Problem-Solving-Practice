@@ -64,3 +64,4 @@ PS 연습을 위해 만든 공간입니다 :)<br>
 |20231224|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2023%20Leetcode/Add%20Two%20Numbers.md">Add Two Numbers</a>|
 |20231224|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2023%20Leetcode/Roman%20to%20Integer.md">Roman to Integer</a>|
 |20231224|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2023%20Leetcode/Twosome.md">Twosome</a>|
+|20231230|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2023%20Leetcode/Longest%20Common%20Prefix.md">Longest Common Prefix</a>|
