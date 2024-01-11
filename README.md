@@ -67,3 +67,4 @@ PS 연습을 위해 만든 공간입니다 :)<br>
 |20231230|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2023%20Leetcode/Longest%20Common%20Prefix.md">Longest Common Prefix</a>|
 |20240108|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Valid%20Parentheses.md">Valid Parentheses</a>|
 |20240109|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Merge%20Two%20Sorted%20Lists.md">Merge Two Sorted Lists</a>|
+|20240110|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Remove%20Duplicates%20from%20Sorted%20Array.md">Remove Duplicates from Sorted Array</a>|
