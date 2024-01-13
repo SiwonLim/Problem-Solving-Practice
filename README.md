@@ -70,3 +70,5 @@ PS 연습을 위해 만든 공간입니다 :)<br>
 |20240110|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Remove%20Duplicates%20from%20Sorted%20Array.md">Remove Duplicates from Sorted Array</a>|
 |20240111|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md">Find the Index of the First Occurrence in a String</a>|
 |20240112|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Plus%20One.md">Plus One</a>|
+|20240113|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Sqrt(x).md">Sqrt(x)</a>|
+|20240113|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Climbing%20Stairs.md">Climbing Stairs</a>|
