@@ -1,5 +1,5 @@
 [Problem]<br>
-https://leetcode.com/problems/valid-parentheses/description
+https://leetcode.com/problems/valid-parentheses
 
 
 [Answer 1]
