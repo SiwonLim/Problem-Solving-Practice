@@ -74,3 +74,4 @@ PS 연습을 위해 만든 공간입니다 :)<br>
 |20240113|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Climbing%20Stairs.md">Climbing Stairs</a>|
 |20240114|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Merge%20Sorted%20Array.md">Merge Sorted Array</a>|
 |20240115|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Binary%20Tree%20Inorder%20Traversal.md">Binary Tree Inorder Traversal</a>|
+|20240116|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Symmetric%20Tree.md">Binary Tree Inorder Traversal</a>|
