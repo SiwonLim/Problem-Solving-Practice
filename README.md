@@ -82,3 +82,4 @@ PS 연습을 위해 만든 공간입니다 :)<br>
 |20240226|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Valid%20Palindrome.md">Valid Palindrome</a>|
 |20240307|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Single%20Number.md">Single Number</a>|
 |20240528|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Remove%20Element.md">Remove Element</a>|
+|20240602|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Majority%20Element.md">Majority Element</a>|
