@@ -1,6 +1,29 @@
 # Problem-Solving-Practice
-PS 연습을 위해 만든 공간입니다 :)<br>
 
+|날짜|문제|링크
+|--|------|--|
+|20241221|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Merge%20Sorted%20Array_Py.py">Merge Sorted Array_Python</a>|
+|20240602|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Majority%20Element.md">Majority Element</a>|
+|20240528|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Remove%20Element.md">Remove Element</a>|
+|20240307|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Single%20Number.md">Single Number</a>|
+|20240226|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Valid%20Palindrome.md">Valid Palindrome</a>|
+|20240124|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Best%20Time%20to%20Buy%20and%20Sell%20Stock.md">Best Time to Buy and Sell Stock</a>|
+|20240121|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Pascal's%20Triangle.md">Pascal's Triangle</a>|
+|20240118|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md">Convert Sorted Array to Binary Search Tree</a>|
+|20240117|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Maximum%20Depth%20of%20Binary%20Tree.md">Maximum Depth of Binary Tree</a>|
+|20240116|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Symmetric%20Tree.md">Symmetric Tree</a>|
+|20240115|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Binary%20Tree%20Inorder%20Traversal.md">Binary Tree Inorder Traversal</a>|
+|20240114|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Merge%20Sorted%20Array.md">Merge Sorted Array</a>|
+|20240113|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Climbing%20Stairs.md">Climbing Stairs</a>|
+|20240113|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Sqrt(x).md">Sqrt(x)</a>|
+|20240112|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Plus%20One.md">Plus One</a>|
+|20240111|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md">Find the Index of the First Occurrence in a String</a>|
+|20240110|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Remove%20Duplicates%20from%20Sorted%20Array.md">Remove Duplicates from Sorted Array</a>|
+|20240109|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Merge%20Two%20Sorted%20Lists.md">Merge Two Sorted Lists</a>|
+|20240108|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Valid%20Parentheses.md">Valid Parentheses</a>|
+
+
+## (~2023)
 |날짜|문제|링크
 |--|------|--|
 |20190928|프로그래머스(Level2)|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/프로그래머스/프로그래머스_기능개발.cpp">기능개발</a>|
@@ -65,21 +88,3 @@ PS 연습을 위해 만든 공간입니다 :)<br>
 |20231224|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2023%20Leetcode/Roman%20to%20Integer.md">Roman to Integer</a>|
 |20231224|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2023%20Leetcode/Twosome.md">Twosome</a>|
 |20231230|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2023%20Leetcode/Longest%20Common%20Prefix.md">Longest Common Prefix</a>|
-|20240108|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Valid%20Parentheses.md">Valid Parentheses</a>|
-|20240109|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Merge%20Two%20Sorted%20Lists.md">Merge Two Sorted Lists</a>|
-|20240110|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Remove%20Duplicates%20from%20Sorted%20Array.md">Remove Duplicates from Sorted Array</a>|
-|20240111|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md">Find the Index of the First Occurrence in a String</a>|
-|20240112|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Plus%20One.md">Plus One</a>|
-|20240113|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Sqrt(x).md">Sqrt(x)</a>|
-|20240113|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Climbing%20Stairs.md">Climbing Stairs</a>|
-|20240114|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Merge%20Sorted%20Array.md">Merge Sorted Array</a>|
-|20240115|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Binary%20Tree%20Inorder%20Traversal.md">Binary Tree Inorder Traversal</a>|
-|20240116|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Symmetric%20Tree.md">Symmetric Tree</a>|
-|20240117|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Maximum%20Depth%20of%20Binary%20Tree.md">Maximum Depth of Binary Tree</a>|
-|20240118|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md">Convert Sorted Array to Binary Search Tree</a>|
-|20240121|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Pascal's%20Triangle.md">Pascal's Triangle</a>|
-|20240124|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Best%20Time%20to%20Buy%20and%20Sell%20Stock.md">Best Time to Buy and Sell Stock</a>|
-|20240226|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Valid%20Palindrome.md">Valid Palindrome</a>|
-|20240307|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Single%20Number.md">Single Number</a>|
-|20240528|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Remove%20Element.md">Remove Element</a>|
-|20240602|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Majority%20Element.md">Majority Element</a>|
