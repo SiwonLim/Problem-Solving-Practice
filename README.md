@@ -2,6 +2,7 @@
 
 |날짜|문제|링크
 |--|------|--|
+|20241222|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Remove%20Duplicates%20Duplicates%20Sorted%20Array_Py%20.py">Remove Duplicates from Sorted Array_Python</a>|
 |20241221|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Merge%20Sorted%20Array_Py.py">Merge Sorted Array_Python</a>|
 |20240602|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Majority%20Element.md">Majority Element</a>|
 |20240528|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Remove%20Element.md">Remove Element</a>|
