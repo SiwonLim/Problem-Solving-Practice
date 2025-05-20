@@ -2,7 +2,7 @@
 
 |날짜|문제|링크
 |--|------|--|
-|20250519|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2025%20Practice/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md">(Python) Find the Index of the First Occurrence in a String.md</a>|
+|20250519|<a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string" target='_blank'>LeetCode</a>|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2025%20Practice/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md">(Python) Find the Index of the First Occurrence in a String.md</a>|
 |20241222|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Remove%20Duplicates%20from%20Sorted%20Array_Py.py">(Python) Remove Duplicates from Sorted Array</a>|
 |20241221|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Merge%20Sorted%20Array_Py.py">Merge Sorted Array_Python</a>|
 |20240602|LeetCode|<a href="https://github.com/SiwonLim/Problem-Solving-Practice/blob/master/2024%20Leetcode/Majority%20Element.md">Majority Element</a>|
