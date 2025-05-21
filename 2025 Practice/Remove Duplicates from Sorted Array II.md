@@ -1,9 +1,9 @@
+[Problem]<br>
+https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+
+```python
 class Solution(object):
     def removeDuplicates(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
         temp = 1
         count = 1
 
@@ -22,3 +22,4 @@ class Solution(object):
 sol = Solution()
 result = sol.removeDuplicates([1,1,1,2,2,3])
 print(result)
+```
