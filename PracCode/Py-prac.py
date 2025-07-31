@@ -1,3 +1,4 @@
+from typing import List
 class Solution(object):
     def removeDuplicates(self, nums):
         """
@@ -16,7 +17,15 @@ class Solution(object):
                 nums[temp] = nums[i]
                 temp += 1
         return temp
-        
-sol = Solution()
-result = sol.removeDuplicates([1,1,1,1,1,2,2,3])
+    
+    def canJump(self, nums: List[int]) -> bool:
+        maxJump=0
+        for i in range(len(nums)):
+            if i > maxJump:
+                return False
+            maxJump = max(maxJump, i+nums[i])
+        return True
+
+sol = Solution();
+result = sol.canJump([3,2,1,0,4])
 print(result)
