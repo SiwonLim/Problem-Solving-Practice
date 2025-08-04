@@ -5,6 +5,23 @@ public class JavaPrac {
         System.out.println(canJump(nums));
     }
 
+    public int jump(int[] nums) {
+        int jumps=0, current_end=0, farthest=0;
+        for(int i = 0 ; i < nums.length-1 ; i++){
+            farthest = Math.max(farthest, i+nums[i]);
+            
+            //제일 먼곳까지 점프했다면? ->
+            //jump수 추가 ->
+            //다시 제일 먼곳 까지 점프할 수 있는곳 지정 ->
+            //반복
+            if(i == current_end){
+                jumps++;
+                current_end = farthest;
+            }
+        }
+        return jumps;
+    }
+
     public static boolean canJump(int[] nums) {
         //1 가장 멀리 갈 수 있는 거리"를 계속 추적해봐.
         int max = 0;
